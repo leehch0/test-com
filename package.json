@@ -1,0 +1,15 @@
+{
+    "devDependencies": {
+      "react": "16.11.0",
+      "react-native": "0.62.2"
+    },
+    "name": "test-com",
+    "peerDependencies": {
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/leehch0/test-com.git"
+    },
+    "version": "0.0.1"
+}
+  
